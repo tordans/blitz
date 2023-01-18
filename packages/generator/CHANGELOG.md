@@ -1,5 +1,11 @@
 # @blitzjs/generator
 
+## 2.0.0-beta.23
+
+### Patch Changes
+
+- 79c5e86d7: Add missing Layout.tsx for generated mimimalapp
+
 ## 2.0.0-beta.22
 
 ### Minor Changes
